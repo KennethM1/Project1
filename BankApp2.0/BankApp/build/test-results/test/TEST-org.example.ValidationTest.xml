@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.ValidationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-30T14:48:32" hostname="LAPTOP-40LPALDG" time="0.015">
+  <properties/>
+  <testcase name="randomNumberCheck()" classname="org.example.ValidationTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

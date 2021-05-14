@@ -1,0 +1,39 @@
+#bod {background-color:rgba(84, 218, 218, 0.349)}
+input[type=text], input[type=password] {   
+    width: 100%;   
+    margin: 8px 0;  
+    padding: 12px 20px;   
+    display: inline-block;    
+    box-sizing: border-box;   
+}  
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+  }
+/* .col-sm2{
+    padding-right: 1px;
+} */
+
+#btn2 {
+    margin-left: 230px;
+}
+
+#f1{
+    width:25em;
+    margin-left: 1.5em;
+}
+#f2{
+    width:12em;
+    margin-left: 2.3em;
+}
+#f3{
+    width: 25em;
+}
+
+#f22{
+    width:25em;
+}

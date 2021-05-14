@@ -1,0 +1,69 @@
+
+P
+java:S1481ø"-Remove this unused "employee" local variable.(¸Ü–üÿÿÿÿ8Œ«„™’/
+s	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³€û‹ıÿÿÿÿ8Œ«„™’/
+_
+java:S1854"<Remove this useless assignment to local variable "customer".(ğ¸°×şÿÿÿÿ8Œ«„™’/
+t
+java:S1192p"RDefine a constant instead of duplicating this literal "Server Side Error" 4 times.(±¬“»úÿÿÿÿ8‹ªÓ’/
+Z
+java:S1854²"<Remove this useless assignment to local variable "employee".(Áâøå8Œ«„™’/
+{
+java:S1192"^Define a constant instead of duplicating this literal "============================" 25 times.(­Ş—8˜ãı©‘/
+]	java:S125"<This block of commented-out lines of code should be removed.(ã¢ó¢ûÿÿÿÿ8“„šÅ‘/
+s	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ÚÊìúÿÿÿÿ8Œ«„™’/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8×Ãã’/
+s	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÙÜƒûÿÿÿÿ8Œ«„™’/
+Y
+java:S1128"<Remove this unused import 'com.bankapp.impl.BankServiceDAO'.(÷—Î†8ìŸµÜ‘/
+]
+java:S1128";Remove this unused import 'com.bankapp.model.BankAccounts'.( ¦£ßøÿÿÿÿ8…À£ñ‘/
+]
+java:S1128"@Remove this unused import 'com.bankapp.impl.BankServiceDAOImpl'.(‚‚³8„ÄÈÜ‘/
+K
+java:S1481ˆ"-Remove this unused "employee" local variable.(ÀæÒ‘8Œ«„™’/
+Z
+java:S1854Ú"<Remove this useless assignment to local variable "employee".(ÎõÓ8Œ«„™’/
+Z
+java:S1854ˆ"<Remove this useless assignment to local variable "employee".(ÀæÒ‘8Œ«„™’/
+
+java:S1192Y"_Define a constant instead of duplicating this literal "Please enter a positive amount" 4 times.(Åáè²ûÿÿÿÿ8¸›¥Â“/
+a
+java:S1155ã">Use isEmpty() to check whether the collection is empty or not.(ÛÒı³ûÿÿÿÿ8Œ«„™’/
+D	java:S131Ê""Add a default case to this switch.(­øêÀıÿÿÿÿ8Œ«„™’/
+
+java:S1192 "aDefine a constant instead of duplicating this literal "================================" 3 times.(ûùÆ«8Œ«„™’/
+_
+java:S1854ø"<Remove this useless assignment to local variable "employee".(¸Ü–üÿÿÿÿ8Œ«„™’/
+>	java:S131T""Add a default case to this switch.(ÃÊ‹÷8Êäèä‘/
+O
+java:S1481^"-Remove this unused "customer" local variable.(™À®Åÿÿÿÿÿ8ßêİô‘/
+Y	java:S125™"<This block of commented-out lines of code should be removed.(ŞŠÚ8Œ«„™’/
+J
+java:S1481m"-Remove this unused "customer" local variable.(ò¢¼‰8Ÿ‘„’/
+K
+java:S1481²"-Remove this unused "employee" local variable.(Áâøå8Œ«„™’/
+n	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁĞ÷×8Œ«„™’/
+p
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 145 to the 15 allowed.(Çµí‘8Ç˜¡±‘/
+^
+java:S1854^"<Remove this useless assignment to local variable "customer".(™À®Åÿÿÿÿÿ8Ÿ‘„’/
+…
+java:S1192£"bDefine a constant instead of duplicating this literal "=================================" 3 times.(™Óİ¨úÿÿÿÿ8Œ«„™’/
+Y
+java:S1854m"<Remove this useless assignment to local variable "customer".(ò¢¼‰8Ÿ‘„’/
+Y
+java:S1854~"<Remove this useless assignment to local variable "customer".(¨Ç–î8Œ«„™’/
+J	java:S108'")Either remove or fill this block of code.(é–³öûÿÿÿÿ8˜ãı©‘/
+G
+java:S2140¹")Use "java.util.Random.nextInt()" instead.(ƒ‡—‰8Œ«„™’/
+n	java:S128Ë"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8Œ«„™’/
+P
+java:S1481"-Remove this unused "customer" local variable.(ğ¸°×şÿÿÿÿ8Œ«„™’/
+K
+java:S1481Ú"-Remove this unused "employee" local variable.(ÎõÓ8Œ«„™’/
+V	java:S106ä"9Replace this use of System.out or System.err by a logger.(»¢“¼8Œ«„™’/
+s	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óº¡ıÿÿÿÿ8Œ«„™’/
+J
+java:S1481~"-Remove this unused "customer" local variable.(¨Ç–î8Œ«„™’/

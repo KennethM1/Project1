@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href ="style.css"/>
+    
+    <title>The Bank of Kenneth</title>
+</head>
+<body>
+<div id= "bod" class="jumbotron text-center">
+    <h1>WELCOME to THE BANK of KENNETH</h1>
+    <p>Where financial solutions are acquired</p>
+</div>
+</div>
+<br>
+<br>
+<h3>Hi..<span id="welc"></span>!!.Welcome to your Employee Portal. How would you like to proceed?</h3>
+<br>
+<br>
+<br>
+<button id="btn1">See All Customer Accounts</button>
+<br>
+<div 
+id="results">
+</div>
+<br>
+<div class="dropdown">
+    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Search Customers By
+    <span class="caret"></span></button>
+    <ul class="dropdown-menu">
+      <li><a href="searchemployeeid.html">Customer ID</a></li>
+      <li><a href="#">Account #</a></li>
+      <li><a href="searchemployeeactapproval.html">Account Status</a></li>
+    </ul>
+</div>
+<br>
+<input id="approve" type="text" placeholder="Enter the Customer Account ID" name="Approve">
+<br>
+<button id="btn3">Approve this Account</button>
+<br>
+<input id="deny" type="text" placeholder="Enter the Customer Account ID" name="Deny">
+<br>
+<button id="bt4">Deny this Account</button>
+<br>
+<br>
+<button id="btn5">View All Transactions</button>
+<br>
+<br>
+<form>  
+<div class="container">
+    <div>
+        <h2 style="margin-left: 8em;">Hire an Employee</h2>
+        <form>
+            <div class="form-group">
+              <label for="name">New Employee Name:</label>
+              <input type="text" class="form-control" id="name">
+            </div>
+            <div class="form-group">
+              <label for="pwd">New Employee Password:</label>
+              <input type="password" class="form-control" id="pwd">
+            </div>
+            <div>
+              <label for="ID">New Employee ID:</label>
+              <input type="number" class="form-control" id="empid">
+            </div>
+            <br>
+            <button id= "btn7" type="submit" class="btn btn-primary">Hire This Person</button>
+          </form>
+    </div> 
+</div>   
+</form> 
+<br>
+<br>
+<br>
+<button id="btn6" onclick="location.href='employeeloginpage.html'">Exit</button>
+    
+</body>
+  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script src="bank5.js"></script>
+</html>
